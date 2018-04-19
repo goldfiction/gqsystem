@@ -2,6 +2,7 @@
   "name":"gqsystem",
   "main":"index.js",
   "license":"MIT",
+  "version":"0.0.1",
   "private":false,
   "repository":"git@github.com:goldfiction/gqsystem.git",
   "dependencies":{
