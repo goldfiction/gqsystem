@@ -1,0 +1,9 @@
+{
+  "name":"gqsystem",
+  "main":"index.js",
+  "license":"MIT",
+  "private":false,
+  "dependencies":{
+    "ip":"1.0.0"
+  }
+}
