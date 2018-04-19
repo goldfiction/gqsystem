@@ -3,6 +3,7 @@
   "main":"index.js",
   "license":"MIT",
   "private":false,
+  "repository":"git@github.com:goldfiction/gqsystem.git",
   "dependencies":{
     "ip":"1.0.0"
   }
